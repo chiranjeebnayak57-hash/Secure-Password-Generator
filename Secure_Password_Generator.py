@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Chiranjeeb Nayak.
+# All rights reserved.
+
 import string
 import secrets
 import tkinter as tk
